@@ -1,7 +1,7 @@
 {
     "name": "Din Djarin",
     "description": "Din Djarin, also known as >>the Mandalorian<<, or simply Mando, is a human male Mandalorian warrior.",
-    "image": "https://raw.githubusercontent.com/twireDao/generic-erc1155-metadata/main/img/din.jpg",
+    "image": "https://raw.githubusercontent.com/twireDao/generic-erc1155-metadata/main/img/mando.jpg",
     "external_url": "https://starwars.fandom.com/wiki/Din_Djarin",
     "attributes": [
         {
