@@ -1,0 +1,16 @@
+{
+    "name": "Din Grogu",
+    "description": "Din Grogu, known only as Grogu until being formally adopted by Din Djarin after the reconquest of Mandalore, is a male Force-sensitive Mandalorian",
+    "image": "https://raw.githubusercontent.com/twireDao/generic-erc1155-metadata/main/img/grogu.png",
+    "external_url": "https://starwars.fandom.com/wiki/Din_Grogu",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Din Grogu"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Mandalorian"
+        }
+    ]
+}

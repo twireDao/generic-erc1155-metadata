@@ -1,0 +1,16 @@
+{
+    "name": "IG-12",
+    "description": "IG-12 was a repurposed mech created by a crew of Anzellan droidsmiths from the parts of the assassin droid IG-11.",
+    "image": "https://raw.githubusercontent.com/twireDao/generic-erc1155-metadata/main/img/ig12.jpg",
+    "external_url": "https://starwars.fandom.com/wiki/IG-12/",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "IG-12"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Mech"
+        }
+    ]
+}
